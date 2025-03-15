@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "67c15cabcf6b6d545455d939",
+    "token": "67bed42e8f1f3a405c2fa516",
+    "task": "project4",
+    "description": "task-manager3",
+    "status": "deleted",
+    "createdAt": "2025-02-28T06:50:19.210Z",
+    "updatedAt": "2025-02-28T06:50:19.210Z",
+    "updated_at": "2025-02-28T07:09:55.462Z"
+  },
+  {
+    "_id": "67c163eb037f1870e0044522",
+    "token": "67c1612cede80969583ff296",
+    "task": "providing-task",
+    "description": "create a task manager",
+    "status": "deleted",
+    "createdAt": "2025-02-28T07:21:15.148Z",
+    "updatedAt": "2025-02-28T07:21:15.148Z",
+    "updated_at": "2025-02-28T07:32:34.138Z"
+  },
+  {
+    "_id": "67c194271a46ad32a464b163",
+    "token": "67c1612cede80969583ff296",
+    "task": "providing-task",
+    "description": "create a task manager 3",
+    "status": "deleted",
+    "createdAt": "2025-02-28T10:47:03.572Z",
+    "updatedAt": "2025-02-28T10:47:03.572Z",
+    "updated_at": "2025-02-28T11:23:20.548Z"
+  },
+  {
+    "_id": "67c194e81a46ad32a464b164",
+    "token": "67c15d5ccf6b6d545455d93a",
+    "task": "manager 1",
+    "description": "providing task to user 1",
+    "status": "deleted",
+    "createdAt": "2025-02-28T10:50:16.974Z",
+    "updatedAt": "2025-02-28T10:50:16.974Z",
+    "updated_at": "2025-03-04T05:25:27.085Z"
+  },
+  {
+    "_id": "67c6aabfca08ca5850ad46f4",
+    "token": "67c69f8acb57313b6845e90c",
+    "task": "user 3",
+    "description": "i am the user",
+    "status": "deleted",
+    "createdAt": "2025-03-04T07:24:47.239Z",
+    "updatedAt": "2025-03-04T07:24:47.239Z",
+    "updated_at": "2025-03-04T07:28:24.590Z"
+  }
+]
